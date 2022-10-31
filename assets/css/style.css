@@ -1,0 +1,66 @@
+body {
+    background-color: #F5F7FA;
+    font-family: 'Montserrat', 'Arial';
+}
+
+.nav{
+    position: absolute;
+        width: 1600px;
+        height: 80px;
+        left: 0px;
+        top: 0px;
+    
+        background: #FFFFFF;
+}
+
+.contacts{
+    position: absolute;
+        width: 59px;
+        height: 16px;
+        left: 679px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #212121;
+}
+.correo{
+    position: absolute;
+        width: 135px;
+        height: 16px;
+        left: 1078px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #2196F3;
+}
+
+
+
+.telefono{
+    position: absolute;
+        width: 113px;
+        height: 16px;
+        left: 1263px;
+        top: 32px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+    
+        color: #757575;
+}
